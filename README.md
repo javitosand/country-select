@@ -4,19 +4,18 @@ This React application allows you to select countries from a list using checkbox
 
 ## Features
 
-Select individual countries with checkboxes.
-Select all countries with a single checkbox.
+- Select individual countries with checkboxes.
+- Select all countries with a single checkbox.
 
 ## Stack
 
-created-react-app
-Typescript
+- created-react-app
+- Typescript
 
 ## Instalation
 
-<code>npm install</code>
-<br></br>
-<code>npm start</code>
+- <code>npm install</code>
+- <code>npm start</code>
 
 ## Credits
 
