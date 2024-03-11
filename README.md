@@ -15,6 +15,7 @@ Typescript
 ## Instalation
 
 <code>npm install</code>
+<br></br>
 <code>npm start</code>
 
 ## Credits
